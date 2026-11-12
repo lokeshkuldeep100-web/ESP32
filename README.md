@@ -63,7 +63,8 @@ PCB Video
 
 Here is the video showing the PCB design process.
 
-"Watch PCB Design Video" (PASTE_YOUR_VIDEO_LINK_HERE)
+https://cdn.hackclub.com/01a1d09a-723f-780f-a0f8-03a1b240105b/video%201.mp4
+https://cdn.hackclub.com/01a1d08f-d2ad-721d-ab4f-6fc8f06b153c/video.mp4
 
 AI DISCLOSURE
 
