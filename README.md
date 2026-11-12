@@ -21,28 +21,23 @@ Features
 
 Project Files
 
-The repository contains the project files organized into different folders.
+The repository is organized as follows:
 
-ESP32-Development-Board/
-│
-├── docs/
-│   └── PCB_Documentation.pdf
+ESP32
 │
 ├── images/
 │   ├── PCB.png
 │   └── PCB_3D.png
+|   ├──schematic.pdf
 │
 ├── manufacturing/
 │   └── Gerber.zip
-│
-├── source/
-│   └── EasyEDA_Project
-│
+│ └── bom.csv
+│  └── cpl.csv
+|
+
 └── README.md
 
-Source
-
-The "source" folder contains the original EasyEDA project files. These files can be opened in EasyEDA to view or edit the PCB design.
 
 Manufacturing
 
@@ -50,9 +45,6 @@ The "manufacturing" folder contains the Gerber files required for PCB manufactur
 
 These files can be used to get the PCB manufactured.
 
-Documentation
-
-The "docs" folder contains the PCB documentation and design details.
 
 How to Open the Project
 
@@ -64,9 +56,8 @@ How to Open the Project
 
 Tools Used
 
-- EasyEDA
-- ESP32
-- PCB Design Tools
+- EasyEDA pro
+- LCSC component library
 
 PCB Video
 
