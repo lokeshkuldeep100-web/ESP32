@@ -14,7 +14,8 @@ Features
 
 -> PCB Layout
 
-image/
+image/3d esp32.png
+
 
 Project Files
 
