@@ -16,6 +16,8 @@ Features
 
 ![ESP32 PCB Layout](images/design%20esp32.png)
 
+-> 3d design
+![ESP32 PCB 3d](images/3d%20esp32.png)
 
 Project Files
 
